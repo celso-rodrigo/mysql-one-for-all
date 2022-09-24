@@ -89,7 +89,7 @@ INSERT INTO SpotifyClone.artist
 INSERT INTO SpotifyClone.album 
 (album_name, artist_id, release_year) VALUES
   ('Renaissance', 1, 2022),
-  ('jazz', 2, 1978),
+  ('Jazz', 2, 1978),
   ('Hot Space', 2, 1982),
   ('Falso Brilhante', 3, 1998),
   ('Vento de Maio', 3, 2001),
